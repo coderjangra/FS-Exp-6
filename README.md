@@ -1,4 +1,5 @@
 # Experiment 2.3: Advanced JPA & Security SPA
+# AVAILABLE AT: https://coderjangra.github.io/FS-Exp-6/
 
 ## Aim
 To design and optimize the frontend for a real-world Spring Boot application utilizing advanced JPA techniques, query optimizations, robust security configurations, and database versioning.
